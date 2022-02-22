@@ -7,9 +7,13 @@
   },
   "dependencies": {
     "next": "latest",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-native-web": "^0.13.14"
+    "react-native-web": "^0.13.14",
+    "react-scripts": "^5.0.0",
+    "twrnc": "^3.0.2"
   },
   "devDependencies": {
     "babel-plugin-react-native-web": "^0.13.14"
